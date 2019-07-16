@@ -14,7 +14,7 @@ sidebar <- dashboardSidebar(
   sidebarMenu(
     menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
     menuItem("Visit-us", icon = icon("send",lib='glyphicon'), 
-             href = "https://www.salesforce.com")
+             href = "https://www.abcd.com")
   )
 )
 
